@@ -4,3 +4,9 @@
 
 /Sonar_Local_Test/.vs
 /.vs
+/Sonar_Local_Test/Sonar_Local_Test/bin/Debug/net10.0
+/Sonar_Local_Test/Sonar_Local_Test/obj/Debug/net10.0/ref
+/Sonar_Local_Test/Sonar_Local_Test/obj/Debug/net10.0/refint
+*.exe
+/Sonar_Local_Test/Sonar_Local_Test/obj/Debug/net10.0/Sonar_Local_Test.AssemblyInfo.cs
+/Sonar_Local_Test/Sonar_Local_Test/obj/Debug/net10.0/Sonar_Local_Test.AssemblyInfoInputs.cache
